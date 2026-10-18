@@ -1,1 +1,1 @@
-Изучаем Git add и Git init
+Изучаем git add и Git init
